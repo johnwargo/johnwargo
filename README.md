@@ -29,7 +29,8 @@ What you'll find here is the following:
 
 🔭 I’m currently working on ...
 
-* Learning as much as I can about [Flutter](https://flutter.dev/)
+* My day job, of course.
+* Learning as much as I can about [Flutter](https://flutter.dev/).
 * Writing articles for [Random Dev Errors](https://randomerrors.dev/).
 * Building and selling mobile apps through my little/side software company [Fumbly Diddle Software](https://fumblydiddle.com/).
 * Building a commercial hardware/software project on the [ESP32 platform](https://www.espressif.com/en/products/socs/esp32/overview) for my little/side hardware company [Fumbly Stuff](https://fumblystuff.com/).
