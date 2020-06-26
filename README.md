@@ -1,4 +1,4 @@
-![JMW Avatar]()
+![JMW Avatar](https://github.com/johnwargo/johnwargo/blob/master/images/jmw-avatar-200.png)
 
 # John M. Wargo
 
