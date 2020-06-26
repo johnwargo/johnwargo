@@ -6,7 +6,7 @@ I'm a professional software developer, writer, presenter, father, husband, and G
 
 This is the GitHub account for my public persona (@johnwargo); you can find my GitHub employee repo at [@jwargo](https://github.com/jwargo).
 
-My work is in 8 books, plus a lot of magazine articles and blog posts. I wrote seven books, and the other is an anthology of magazine articles I (and others) wrote for a particular publication. All but one of my books are on web and mobile software development. My latest publication is [Learning Progressive Web Apps](https://learningpwa.com).
+My work is in 8 books, plus a lot of magazine articles and blog posts. I wrote seven books outright, and the other is an anthology of magazine articles I (and others) wrote for a particular publication. All but one of my books are on web and mobile software development. My latest publication is [Learning Progressive Web Apps](https://learningpwa.com).
 
 I love tinkering with IoT, building and writing about projects for Arduino, Particle Photon, Raspberry Pi, and more.
 
