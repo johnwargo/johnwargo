@@ -25,7 +25,7 @@ What you'll find here is the following:
 
 * I publish a lot of stuff on my personal blog at [johnwargo.com](https://johnwargo.com)
 * If you have questions about any of the repos here, use Issues in the repo to contact me
-* first at firstlast dot com
+* Email me at first at firstlast dot com, I usually check email in the morning and after work
 
 
 <!--
