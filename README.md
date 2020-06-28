@@ -37,7 +37,7 @@ What you'll find here is the following:
 
 ⚡ Fun fact: I'm the only author who's written books for Soccer Referees and Mobile developers (different books)
 
-🤔 Available for: Freelance writing and possibly some [Ionic](https://ionicframework.com/) development
+🤔 Available for: Freelance writing and small-project [Ionic](https://ionicframework.com/) development
 <!--
 **johnwargo/johnwargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
