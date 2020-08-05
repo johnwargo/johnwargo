@@ -2,8 +2,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=johnwargo"/>
 
-# About Me
-
 I'm a professional software developer, writer, presenter, father, husband, and Geek. For the last 15 years (or so), I focused on enterprise mobility and building mobile apps. I am currently a Staff Product Manager at GitHub.
 
 This is the GitHub account for my public persona (@johnwargo); you can find my GitHub employee repo at [@jwargo](https://github.com/jwargo).
