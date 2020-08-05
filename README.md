@@ -1,5 +1,7 @@
 ![JMW Avatar](https://github.com/johnwargo/johnwargo/blob/master/images/jmw-avatar-200.png)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula"/>
+
 # About Me
 
 I'm a professional software developer, writer, presenter, father, husband, and Geek. For the last 15 years (or so), I focused on enterprise mobility and building mobile apps. I am currently a Staff Product Manager at GitHub.
@@ -37,7 +39,7 @@ What you'll find here is the following:
 
 ⚡ Fun fact: I'm the only author who's written books for Soccer Referees and Mobile developers (different books)
 
-🤔 Available for: Freelance writing and small-project [Ionic](https://ionicframework.com/) development.
+🤔 Available for: Freelance writing and small [Ionic](https://ionicframework.com/) development projects.
 
 <!--
 **johnwargo/johnwargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
