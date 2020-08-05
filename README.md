@@ -1,6 +1,6 @@
 ![JMW Avatar](https://github.com/johnwargo/johnwargo/blob/master/images/jmw-avatar-200.png)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=johnwargo"/>
 
 # About Me
 
