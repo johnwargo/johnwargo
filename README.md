@@ -2,9 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=johnwargo"/>
 
-I'm a professional software developer, writer, presenter, father, husband, and Geek. For the last 15 years (or so), I focused on enterprise mobility and building mobile apps. I am currently a Staff Product Manager at GitHub.
-
-My work is in 8 books, plus a lot of magazine articles and blog posts. I wrote seven books outright, and the other is an anthology of magazine articles I (and others) wrote for a particular publication. All but one of my books are on web and mobile software development. My latest publication is [Learning Progressive Web Apps](https://learningpwa.com).
+I'm a professional software developer, writer, presenter, father, husband, and Geek. For the last 15 years (or so), I focused on enterprise mobility and building mobile apps. My work is in 8 books, plus a lot of magazine articles and blog posts. I wrote seven books outright, and the other is an anthology of magazine articles I (and others) wrote for a particular publication. All but one of my books are on web and mobile software development. My latest publication is [Learning Progressive Web Apps](https://learningpwa.com).
 
 I love tinkering with IoT, building and writing about projects for Arduino, Particle Photon, Raspberry Pi, and more.
 
