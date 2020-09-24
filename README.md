@@ -4,8 +4,6 @@
 
 I'm a professional software developer, writer, presenter, father, husband, and Geek. For the last 15 years (or so), I focused on enterprise mobility and building mobile apps. I am currently a Staff Product Manager at GitHub.
 
-This is the GitHub account for my public persona (@johnwargo); you can find my GitHub employee repo at [@jwargo](https://github.com/jwargo).
-
 My work is in 8 books, plus a lot of magazine articles and blog posts. I wrote seven books outright, and the other is an anthology of magazine articles I (and others) wrote for a particular publication. All but one of my books are on web and mobile software development. My latest publication is [Learning Progressive Web Apps](https://learningpwa.com).
 
 I love tinkering with IoT, building and writing about projects for Arduino, Particle Photon, Raspberry Pi, and more.
@@ -29,7 +27,7 @@ What you'll find here is the following:
 
 🔭 I’m currently working on ...
 
-* My day job, of course.
+* My day job, of course, whatever that is.
 * Learning as much as I can about [Flutter](https://flutter.dev/).
 * Writing articles for [Random Dev Errors](https://randomerrors.dev/).
 * Building and selling mobile apps through my little/side software company [Fumbly Diddle Software](https://fumblydiddle.com/).
