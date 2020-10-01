@@ -33,4 +33,4 @@ What you'll find here is the following:
 
 ⚡ Fun fact: I'm the only author who's written books for Soccer Referees and Mobile developers (different books)
 
-🤔 Available for: Freelance writing and software development projects ([Progressive Web Apps](https://learningpwa.com/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [Flutter](https://flutter.dev/), even [Arduino](https://www.arduino.cc/) and its variants including [ESP32](https://www.espressif.com/en/products/socs/esp32).
+🤔 Available for: Freelance writing and software development projects ([Progressive Web Apps](https://learningpwa.com/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [Flutter](https://flutter.dev/), even [Arduino](https://www.arduino.cc/) and its variants including [ESP32](https://www.espressif.com/en/products/socs/esp32)).
