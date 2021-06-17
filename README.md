@@ -1,4 +1,4 @@
-![JMW Avatar](https://github.com/johnwargo/johnwargo/blob/master/images/jmw-avatar-200.png)
+![JMW Avatar](https://github.com/johnwargo/johnwargo/blob/main/images/jmw-avatar-200.png)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=johnwargo"/>
 
