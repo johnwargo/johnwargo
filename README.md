@@ -1,4 +1,4 @@
-![JMW Avatar](https://github.com/johnwargo/johnwargo/blob/master/images/jmw-avatar-200.png)
+![JMW Avatar](https://github.com/johnwargo/johnwargo/blob/main/images/jmw-avatar-200.png)
 
 <img src="https://github-readme-stats.vercel.app/api/?username=johnwargo"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=johnwargo"/> -->
@@ -9,7 +9,7 @@ I'm a professional software developer, writer, presenter, father, husband, and G
 
 This is my personal GitHub account, anything I say or do here is my own, personal work.
 
-I'm currently a Product Manager at [OutSystems](https://outsystems.com) working on their mobile app capabilities.
+I'm currently a Principal Product Manager at [Oracle](https://oracle.com).
 
 I love tinkering with IoT, building and writing about projects for Arduino, Particle Photon, Raspberry Pi, and more.
 
