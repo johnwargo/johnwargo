@@ -35,4 +35,4 @@ What you'll find here is the following:
 * Building and selling mobile apps through my little/side software company [Fumbly Diddle Software](https://fumblydiddle.com/).
 * Creating commercial hardware products for hobbyists at my little/side hardware company [Fumbly Stuff](https://fumblystuff.com/).
 
-🤔 Available for: Freelance writing and software development projects [Progressive Web Apps](https://learningpwa.com/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [Flutter](https://flutter.dev/), even [Arduino](https://www.arduino.cc/) and its variants including [ESP32](https://www.espressif.com/en/products/socs/esp32)).
+🤔 Available for: Freelance writing and software development projects [Progressive Web Apps](https://learningpwa.com/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [Flutter](https://flutter.dev/), even [Arduino](https://www.arduino.cc/) and its variants including [ESP32](https://www.espressif.com/en/products/socs/esp32).
