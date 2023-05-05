@@ -8,7 +8,7 @@ I'm a professional software developer, writer, presenter, father, husband, and G
 
 This is my personal GitHub account, anything I say or do here is my own, personal work.
 
-I'm currently a Principal Product Manager at [Oracle](https://oracle.com), Product Manager for the Oracle Database Service for Azure (ODSA).
+I'm currently a Principal Product Manager at [Oracle](https://oracle.com), Product Manager for the OCI Console.
 
 I love tinkering with IoT, building and writing about projects for Arduino, Particle Photon, Raspberry Pi, and more.
 
